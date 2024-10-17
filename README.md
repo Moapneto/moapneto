@@ -36,6 +36,6 @@ Desenvolvedor Full Stack de projetos com uso de diversas tecnologias, para desen
 
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="moapneto95@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"><a/>
+  <a href="https://cutt.ly/2lzQrZv"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blanck></a>
 <div/>
