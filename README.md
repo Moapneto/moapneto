@@ -1,5 +1,10 @@
 ## Olá Sou Moacyr Pinto Neto, Desevolvedor web e mobile!
 
+##### sobre o Moacyr
+
+Atualmente estudando Full stack, gosto muito de frond end e criação de lading page, 
+Desenvolvedor Full Stack de projetos com uso de diversas tecnologias, para desenvolvimento mobile e web, automação entre outros...
+
 
 ## HABILIDADES
 
@@ -24,9 +29,10 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moapneto&repo=Projeto_imobiliaria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moapneto&repo=Projeto_Loja_Hugo_boss&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## CONTATO
+## CONTATOS
 
 
 <div style="display: inline_block"><br>
